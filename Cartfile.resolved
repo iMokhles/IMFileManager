@@ -1,0 +1,5 @@
+github "Krimpedance/KRProgressHUD" "3.2.1"
+github "Vaberer/Font-Awesome-Swift" "1.7.2"
+github "Yalantis/Segmentio" "2.1.2"
+github "krimpedance/KRActivityIndicatorView" "2.1.1"
+github "rs/SDWebImage" "4.3.0"
